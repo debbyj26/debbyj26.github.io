@@ -29,8 +29,7 @@ kramdown:
 owner:
   name: Debby Jayadi Nugroho
   avatar: bio-photo.jpg
-  bio: <a href = "http://uin-suska.ac.id">UIN SUSKA RIAU</a>
-  email: 
+  bio: <a href = "http://uin-suska.ac.id">UIN SUSKA RIAU</a><br> / <a href ="http://sif.uin-suska.ac.id"> sistem Informasi</a>
   disqus-shortname: 
   twitter: #username
   facebook: deactivate.py #username
